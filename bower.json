@@ -15,12 +15,15 @@
     "package.json",
     "index.html"
   ],
-  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "keywords": [
     "console",
     "html",
     "beautify",
     "node",
     "browser"
+  ],
+  "description": "Adds console.html method that can beautifully output HTML string / HTMLNode",
+  "authors": [
+    "Gleb Bahmutov <gleb.bahmutov@gmail.com>"
   ]
 }
